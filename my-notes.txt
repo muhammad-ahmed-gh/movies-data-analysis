@@ -1,9 +1,0 @@
-1. I downloaded the datasets from IMDb and they contained tons
-of data (title.basics.tsv contained 12 million rows)
-
-2. I removed the rows that are \N or before 2000 (8 million rows)
-
-3. Then I removed the rows that 2015 (4.5 million rows)
-
-4. Then I kept only the records of Titletype = "movie" (200,000 rows)
-
